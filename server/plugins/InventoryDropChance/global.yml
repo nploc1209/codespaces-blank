@@ -1,0 +1,4 @@
+# "globalValues: {}" to disable
+globalValues:
+  STICK: 50
+  STONE: 10
